@@ -86,7 +86,7 @@
     "istanbul-lib-coverage": "^1.2.0",
     "istanbul-lib-hook": "^1.1.0",
     "istanbul-lib-instrument": "^2.1.0",
-    "istanbul-lib-report": "istanbul-lib-report@https://github.com/fredknyazev/istanbuljs.git#1.1.3/kua/report_with_hierarchy",
+    "istanbul-lib-report": "istanbul-lib-report@https://github.com/fredknyazev/istanbuljs.git#998acbea5bd554f5bde35765fb12110236cd5c2b",
     "istanbul-lib-source-maps": "^1.2.5",
     "istanbul-reports": "^1.4.1",
     "md5-hex": "^1.2.0",
